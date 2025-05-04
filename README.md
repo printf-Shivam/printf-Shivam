@@ -1,5 +1,5 @@
 # 💫 About Me:
-B. Tech '27 Grad, passionate about tech<br>Always looking for knowledge and learning new Things<br>Learning spring for scalability <br>Working on minor projects using MERN<br><br>
+B. Tech '27 Grad, passionate about tech <br>Learning spring for scalability <br>Working on minor projects using MERN<br><br>
 
 
 # 💻 Tech Stack:
